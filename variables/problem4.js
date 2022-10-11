@@ -1,0 +1,16 @@
+let name = "faizan shaikh";
+let school = "kripa sadan convent school";
+let grade = "A1";
+let section = "B";
+let rollnumber = 14;
+let englishmarks = 50;
+let mathsmarks = 45;
+let historymarks = 44;
+console.log("name = " + name);
+console.log("school = " + school);
+console.log("garde =" + grade);
+console.log("section =" + section);
+console.log("rollnumber =" + rollnumber);
+console.log("englishmarks =" + englishmarks);
+console.log("mathsmarks =" + mathsmarks);
+console.log("historymarks =" + historymarks);
